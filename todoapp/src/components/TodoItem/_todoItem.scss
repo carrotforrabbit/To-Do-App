@@ -1,0 +1,12 @@
+.list-item {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  background-color: inherit;
+  border: 3px solid rgb(23, 154, 130);
+  border-radius: 15px;
+  color: rgb(23, 154, 130);
+
+  &:hover {
+    box-shadow: 5px 5px 50px rgba(0, 0, 0, 0.63);
+  }
+}
